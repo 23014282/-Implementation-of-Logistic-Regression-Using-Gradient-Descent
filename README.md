@@ -16,7 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 
 ## Program:
-
+```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Name : JEEVITH
 RegisterNumber:  212223240059
@@ -70,7 +70,7 @@ print("Actual:\n",y.values)
 xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
-
+```
 ## Output:
 ## ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![image](https://github.com/harini1006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497405/fc78ffe5-3d9f-4aee-b22b-3af7aea9ad6f)
